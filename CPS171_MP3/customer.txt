@@ -1,0 +1,8 @@
+Joe Turing, 4124.50 D 200
+Charles Babbage, 300.00 D 100
+Sam Backus, 350.25 W 51
+Sam Hopper, 600.50 X 600
+Robert McCarthy, 1000.00 R 0
+Jack Atanasoff, 200.00 W 200
+Anne Stroustrup, 300.75 W 301
+Amanda Hollerith, 500.00 W -2

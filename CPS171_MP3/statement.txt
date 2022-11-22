@@ -1,0 +1,49 @@
+
+Customer Name: Turing, Joe
+Checking balance before transaction : $ 4124.5
+Transaction type : D
+Transaction amount : $200
+Checking balance after transaction : $ 4324.5
+
+Customer Name: Babbage, Charles
+Checking balance before transaction : $ 300
+Transaction type : D
+Transaction amount : $100
+Checking balance after transaction : $ 400
+
+Customer Name: Backus, Sam
+Checking balance before transaction : $ 350.25
+Transaction type : W
+Transaction amount : $51
+Warning: account is below minimum: $ 300.00
+Checking balance after transaction : $ 299.25
+
+Customer Name: Hopper, Sam
+Checking balance before transaction : $ 600.5
+Transaction type : X
+Transaction amount : $600
+X is not a valid transaction. Transaction canceled.
+
+Customer Name: McCarthy, Robert
+Checking balance before transaction : $ 1000
+Transaction type : R
+Transaction amount : $0
+
+Customer Name: Atanasoff, Jack
+Checking balance before transaction : $ 200
+Transaction type : W
+Transaction amount : $200
+Warning: account is below minimum: $ 300.00
+Checking balance after transaction : $ 0
+
+Customer Name: Stroustrup, Anne
+Checking balance before transaction : $ 300.75
+Transaction type : W
+Transaction amount : $301
+Insufficient funds to perform transaction. Transaction canceled.
+
+Customer Name: Hollerith, Amanda
+Checking balance before transaction : $ 500
+Transaction type : W
+Transaction amount : $-2
+Transaction amount cannot be less than zero. Transaction canceled.
